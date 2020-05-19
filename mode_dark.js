@@ -20,8 +20,7 @@ const initialColors = {
     aside: getStyle(html, "--aside"),
     cartTotalitem: getStyle(html, "--cart-totalitem"),
     totalitemBorder: getStyle(html, "--totalitem-border"),
-
-
+    colorHeader: getStyle(html, "--color-header")
 
 }
 
@@ -36,7 +35,8 @@ const darkMode = {
     hoverAdd: "#1b232e",
     aside: "#2E2E2E",
     cartTotalitem: "#FFF",
-    totalitemBorder: "#B5B5B5"
+    totalitemBorder: "#B5B5B5",
+    colorHeader: "#2E2E2E"
 }
 
 const transformKey = key => "--" + key.replace(/([A-Z])/, "-$1").toLowerCase()

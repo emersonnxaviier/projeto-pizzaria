@@ -7,6 +7,7 @@ html {
     --bg-panel: #EBEBEB;
     --color-headings: #388bc5;
     --color-text: #333333e3;
+    --color-header: #388bc5;
     --preto-branco: #000;
     --hover-add: #244c88;
     --pizza-Window-Area: rgba(5, 4, 4, 0.5);
@@ -90,7 +91,7 @@ header {
     top: 0;
     right: 0;
     height: 60px;
-    background-color: var(--color-headings);
+    background-color: var(--color-header);
     display: none;
     justify-content: flex-end;
     align-items: center;
