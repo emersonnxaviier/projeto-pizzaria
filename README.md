@@ -1,10 +1,8 @@
-# projeto-pizzaria
- Sistema em JavaScript para compra de  pizzas
+# pizzeria project
+ JavaScript system for purchasing pizzas
  
- - Olhem também o arquivo anotacoes.md, nele tem os passos para desenvolver a aplicação e alguns comentarios de comandos, explicando qual a função de cada na aplicação.
- - Está faltando alguns ainda mas em breve estarei atualizando tudo, e trazendo novas funcionalidades para a aplicação.
- 
+ - Also look at the annotacoes.md file, it has the steps to develop the application and some command comments, explaining the function of each in the application.
+ - There are still some missing but soon I will be updating everything, and bringing new features to the application. 
 # Dark Mode
 
-- Disponibilizado a opção de modo escuro para a aplicação.
 
